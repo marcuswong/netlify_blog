@@ -1,6 +1,7 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+#baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = '/'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'Boring blog'
 theme = 'cactus'
 
 
